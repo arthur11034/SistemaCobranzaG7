@@ -40,7 +40,7 @@ public class frmLlamada extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel1.setText("RESGISTRAR LLAMADA");
+        jLabel1.setText("REGISTRAR LLAMADA");
 
         lblFecha.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         lblFecha.setText("Fecha");
